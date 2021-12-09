@@ -1,0 +1,11 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore input files
+*.txt
+*.in
+
+*.pyc
+
+# Ignore 2019 for now :)
+/2019
