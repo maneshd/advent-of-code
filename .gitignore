@@ -5,6 +5,9 @@
 *.txt
 *.in
 
+# Ignore output files
+*.png
+
 *.pyc
 
 # Ignore 2019 for now :)
